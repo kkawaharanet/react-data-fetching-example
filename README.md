@@ -1,11 +1,11 @@
 # react-data-fetching-example
 
-このリポジトリは、React でのデータフェッチングの例である。
+このリポジトリは、React でのデータフェッチの例である。
 
-## `useEffect()`を使ったデータフェッチング
+## `useEffect()`を使ったデータフェッチ
 
-`<UseEffectDataFetching />`では`useEffect()`を使ったデータフェッチングを行う。
+`<UseEffectDataFetching />`では`useEffect()`を使ったデータフェッチを行う。
 
-## `Suspense`と`use`を使ったデータフェッチング
+## `<Suspense>`と`use()`を使ったデータフェッチング
 
-`<SuspenseDataFetching />`では`Suspense`と`use`を使ったデータフェッチングを行う。
+`<SuspenseDataFetching />`では`Suspense`と`use()`を使ったデータフェッチを行う。
